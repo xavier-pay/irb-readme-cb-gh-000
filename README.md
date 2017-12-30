@@ -34,7 +34,7 @@ IRB allows you to execute ruby in the terminal and you're going to get comfortab
   * `Time.now`
   * `255 / 5`
   * `9 ** 2`
-  * `puts "hello world"`
+  * `puts "Hello world"`
 4. To leave irb, type the `exit` command - this will get you back to your command line.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/irb-readme' title='Introduction to IRB'>Introduction to IRB</a> on Learn.co and start learning to code for free.</p>
